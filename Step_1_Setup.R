@@ -42,7 +42,7 @@ rsac<- function(files, endian = .Platform$endian)
     e <- h1[2, 2]
     o <- h1[2, 3]
     a <- h1[2, 4]
-    f <- h1[5, 1]
+    f <- h1[5,
     stla <- h1[7, 2]
     stlo <- h1[7, 3]
     stel <- h1[7, 4]
