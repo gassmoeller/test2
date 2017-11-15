@@ -1,4 +1,4 @@
-## Cross-convolution shear wave splitting code
+CHANGE ## Cross-convolution shear wave splitting code
 ## Implements new statistical assessment of splitting measurements via random-phase microseismic noise and bootstrapping
 ## Last Edited: SEPT 2017 - Derek Witt
 
