@@ -17,7 +17,7 @@ starttime<-Sys.time()
 ## Set up station/event pairs to iterate through
 pathname<-"C:/Users/ksabunis/Documents/R/"
 setwd(pathname)
-
+This is an improvement
 stations<-read.table(paste(pathname,"stations.txt",sep=""))
 S<-dim(stations)[1]
 for (s in 1:S){
